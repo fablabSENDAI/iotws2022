@@ -1,21 +1,24 @@
 ---
 layout: default
-title: home
+title: はじめに
 nav_order: 1
 ---
 
-# hello world !!!
-FabLabSENDAI-FLATのドキュメントテンプレートです。
+# IoT超入門セミナーへようこそ！
 
-## LINK
-This is our [web page's link](http://fablabsendai-flat.com/)
+今回のIoT超入門セミナーでは、ネットワーク経由で温度・湿度・気圧をモニタリングできるデバイスを使って、職場や身近な環境のデータを記録していきます。
 
 
-## image
-<img src="images/コメント 2020-05-26 225341.jpg" alt="hi" class="inline"/>
+## テーマ【データを見て、意味を感じ取る】
+セミナーのテーマは、連続的に送られてきたデータから、その"意味"を感じ取る、あるいは分析すること。
 
-## YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LR1SmL5JmHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## SoundCloud
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/595997727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fablab-sendai" title="FabLab SENDAI" target="_blank" style="color: #cccccc; text-decoration: none;">FabLab SENDAI</a> · <a href="https://soundcloud.com/fablab-sendai/3jiku-ondo" title="三軸音頭(DEMO)" target="_blank" style="color: #cccccc; text-decoration: none;">三軸音頭(DEMO)</a></div>
+例えば...
+
+
+* PCの裏に置いておいたら、温度が上下する　→　PCの稼働時間が分かる
+* キッチンに置いておいたら、朝晩に気圧がグンと下がる　→　奥さんが換気扇をいれていた
+* コースターにセンサーを仕込む　→　温度で何回コーヒー飲んだか分かる
+
+
+などなど、データとしては単純でも、仕掛ける場所 / 置き方でそのデータが持つ意味はガラッと変わります。
