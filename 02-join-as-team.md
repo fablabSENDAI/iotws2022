@@ -14,4 +14,4 @@ nav_order: 3
  - 同じ部内、同じフロア、同じ事業所内、など近い方で構成することを推奨します。
 - IoTツールは「1チームに1セット」配付となります。
 
-<img src="images/10_01.png" alt="hi" class="inline"/>
+<img src="images/10-01.png" alt="hi" class="inline"/>
