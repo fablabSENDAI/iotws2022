@@ -1,8 +1,9 @@
 ---
 layout: default
 title: セットアップ(上級者向け)
-nav_order: 2
+nav_order: 10
 has_children: true
+nav_exclude: true
 ---
 
 # セットアップ(上級者向け)
