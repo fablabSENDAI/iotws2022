@@ -5,8 +5,6 @@ nav_order: 5
 has_children: true
 ---
 
-# <<< 注：現在このページは、編集中です >>>
-
 # Ambientの設定方法
 M5Stickからインターネットに送られたデータは、Ambient(アンビエント)というIoT向けデータ表示サイトへ送られています。
 
