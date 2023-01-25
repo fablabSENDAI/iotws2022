@@ -15,7 +15,7 @@ nav_order: 8
 | 3  | 東北電機製造  | [#07](https://ambidata.io/bd/board.html?id=52338 "#07")<br>[#08](https://ambidata.io/bd/board.html?id=52329 "#08") |
 | 4  | 東北緑化環境保全  |  [#09](https://ambidata.io/bd/board.html?id=52326 "#09")<br>[#10](https://ambidata.io/bd/board.html?id=52333 "#10")<br>[#11](https://ambidata.io/bd/board.html?id=52330 "#11")<br>[#12](https://ambidata.io/bd/board.html?id=52316 "#12") |
 | 5  | Yurtec  |  [#13](https://ambidata.io/bd/board.html?id=52324 "#13")<br>[#14](https://ambidata.io/bd/board.html?id=50604 "#14")|
-| 6  | 東北開発コンサルタント  |  [#15](https://ambidata.io/bd/board.html?id=52341 "#15")<br>[#16](https://ambidata.io/bd/board.html?id=+++++ "#16") |
+| 6  | 東北開発コンサルタント  |  [#15](https://ambidata.io/bd/board.html?id=52341 "#15")<br>[#16](https://ambidata.io/bd/board.html?id=52325 "#16") |
 | 7  | チームゆかいな下村<br>（北日本電線）  |  [#17](https://ambidata.io/bd/board.html?id=52327 "#17")<br>[#18](https://ambidata.io/bd/board.html?id=52328 "#18") |
 
 
